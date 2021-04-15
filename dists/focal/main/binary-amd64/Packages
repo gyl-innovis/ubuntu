@@ -1,0 +1,14 @@
+Package: kittserver
+Version: 2.0.0-1
+Architecture: amd64
+Maintainer: zdinnovis
+Depends: qt5-default, libqt5serialbus5, libqt5serialport5
+Priority: optional
+Section: utils
+Filename: pool/main/k/kittserver/kittserver_2.0.0-1_amd64.deb
+Size: 268172
+SHA256: f11290d137c9bd87800350bf48723a59c3a40408d315a02c54f8ac9a44b8999d
+SHA1: 477b052db2b7eb53fa5a7ef1e7cd96128db5af7c
+MD5sum: b6e2660f4abee0462af30b7165d60a69
+Description: kittserver main program
+

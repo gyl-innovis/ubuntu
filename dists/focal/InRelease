@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: gyl-innovis.github.io/ubuntu
+Label: zdinnovis
+Codename: focal
+Date: Thu, 15 Apr 2021 05:54:03 UTC
+Architectures: amd64
+Components: main
+Description: KittServer repository
+MD5Sum:
+ 6ee092136832237c5566d4606d3c2ee9 445 main/binary-amd64/Packages
+ 1eff33b2fb568ef6aab42660d2130bf5 330 main/binary-amd64/Packages.gz
+ 6d4bc70a2556d7e86286b4f114e36ea7 125 main/binary-amd64/Release
+SHA1:
+ 5b635e8dbfa112a59e82d38773de9af51d61d2d5 445 main/binary-amd64/Packages
+ af38ce46bacb87f2a7b13a1c99f9688a02a92dd9 330 main/binary-amd64/Packages.gz
+ 8f0f10ae6979bdd048a3796bc40550d4be6e95c9 125 main/binary-amd64/Release
+SHA256:
+ db90399e4c808152e2cb7f4a961d9dae50420208c785af99dd798399c7016568 445 main/binary-amd64/Packages
+ 9d9eb99ba7b535e7e0f9c998368e9e9c31644a68c5c7dcbc8dbcd00c7106fd31 330 main/binary-amd64/Packages.gz
+ 28d2e3646a0197cd1832987dcb36856d25810aa7b4bd8071324f3b5d612cde74 125 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEhwmRqIAAJn6TTBWnnB7NIDIDqJIFAmB31RMACgkQnB7NIDID
+qJIEWgwAmOTHYmoKkgxDd5KdiD1z7JDxOi6HFv3Xhsgrdafo7tZaL3Fk2d9q9zy1
+59CzGPmfJzMBnzAsIw2bbNpYiTfNemxtM57FGC+qnGuNCg72Nv3GFgoTmRmIfoPH
+SeAmOBCgCZP8DwfJfLCAINA8QEJmgzedIGqdYcBzpy1XMDBwW8RjGDebP20JwDbW
+UXIcxZgydvf1H7e/9Md7774hX4PyX6Kh3/fakEnW1ynmIm4q5gnOPcGFLv25w7E+
+7A9b0B5CXEy5S+TNdShw5QaI0UlhGlNlkXsjjxLLsyBUCtEFVgq+Qt5q14jC9Bx+
+FgzzgYcbF0NWCXss7I+sYryVvsOnrS2X2gmkArTZfpKe92LUSaz1Dx55yTeWh0Uc
+FSHLV0PXlkN5KasBzISYGWFPo5IRj3yLuQ9vBQldSlbsCWs+Ttz28+MyJ6TRLwWo
+X4vXgfSTF19SSqQKusgIuXuxnDAWa9X6MPiHO19upLp52L4lcAm4hyivrw8ZJlhp
+KWfe7EVj
+=542M
+-----END PGP SIGNATURE-----

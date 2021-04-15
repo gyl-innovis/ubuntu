@@ -1,0 +1,7 @@
+Origin: gyl-innovis.github.io/ubuntu
+Label: zdinnovis
+Codename: focal
+Architectures: amd64
+Components: main
+Description: KittServer repository
+SignWith: 870991A88000267E934C15A79C1ECD203203A892
